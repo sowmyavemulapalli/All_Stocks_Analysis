@@ -12,6 +12,8 @@
     -I have calculated these percentages for each ticker by finding the tickerstarting prices and tickerending prices with the condition if the current row is the first row for that ticker then assign cell(i,6) to starting prices and if the current row is ending row in that ticker then assign cell(i,6) to the ending price. In the year 2017 the profit percentages are more for all other tickers except TERP. But in 2018 year tickers  ENPH and RUN have positive percentage while remaining tickers have negative percentages. 
 
 ![image](https://user-images.githubusercontent.com/86328230/124404391-56be9080-dd00-11eb-9ba5-efd068a38786.png)
+![image](https://user-images.githubusercontent.com/86328230/124404449-92f1f100-dd00-11eb-8309-7c97f1d7af07.png)
+
 
 
 
